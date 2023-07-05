@@ -1,2 +1,2 @@
 #!/bin/bash
-less -lna
+less -na
